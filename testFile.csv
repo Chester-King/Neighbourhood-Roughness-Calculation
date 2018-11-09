@@ -1,0 +1,11 @@
+,A1,A2,A3,A4,A5,A6,A7
+x1,good,dark,opaque,0.2,region1,torrid,qualityIndex2
+x2,average,grey,translucent,0.85,region3,tropical,qualityIndex3
+x3,fair,lightgrey,transparent,0.31,region2,temperate,qualityIndex1
+x4,average,dark,translucent,0.74,region2,torrid,qualityIndex2
+x5,fair,lightgrey,transparent,0.82,region1,torrid,qualityIndex3
+x6,good,verydark,opaque,0.72,smooth,tropical,qualityIndex1
+x7,fair,lightgrey,opaque,0.9,region1,arctic,qualityIndex1
+x8,fair,lightgrey,transparent,0.64,region1,torrid,qualityIndex1
+x9,good,verydark,opaque,0.56,region3,tropical,qualityIndex3
+x10,average,verydark,translucent,0.4,region3,torrid,qualityIndex3
