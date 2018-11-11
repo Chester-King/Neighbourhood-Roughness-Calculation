@@ -31,10 +31,17 @@ for y in range(1,len(database[1])):
 
 #---------------------------------------
 
-delta_set=set(delta)
+delta_set=delta
+for x in range(len(delta_set)):
+    for y in range(len(delta_set[x])):
+        delta_set[x][y]=set(delta_set[x][y])
 
-print(delta_set)
 
+for x in delta_set:
+    print(x)
+
+o=[1,2,4]
+print("\n--\n",set(o))
 #
 #
 # c=0
