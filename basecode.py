@@ -40,8 +40,9 @@ for x in range(len(delta_set)):
 for x in delta_set:
     print(x)
 
-o=[1,2,4]
-print("\n--\n",set(o))
+#-----------------------------------------
+
+
 #
 #
 # c=0
